@@ -24,3 +24,16 @@ Export to PDF via Latex, or print preview and then advanced to pick the right pa
 
 
 Examples and csv file from  https://www.jetbrains.com/help/dataspell/quick-start-guide.html#work-with-notebooks
+
+## Exporting jupyter notebooks
+
+1. From the directory where `jn3.ipynb` is located
+```bash
+jupyter notebook
+```
+
+2. Open the jpynb file
+3. file -> print preview
+4. firefox print, select the appropriate size, save as pdf
+5. result for A3 size:  `jn3_via_print_preview.pdf`
+
